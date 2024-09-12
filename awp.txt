@@ -1,0 +1,107 @@
+AWPChromeCannon 10ChromeCannon
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Chrome%20Cannon%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Chrome%20Cannon%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Chrome%20Cannon%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Chrome%20Cannon%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Chrome%20Cannon%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Chrome%20Cannon%20(Battle-Scarred)');
+
+
+AWPWildfire 10Wildfire
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Wildfire%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Wildfire%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Wildfire%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Wildfire%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Wildfire%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Wildfire%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Wildfire%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Wildfire%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Wildfire%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Wildfire%20(Battle-Scarred)');
+                        
+
+AWPAsiimov 6AWPAsiimov(OnlyFT.WW.BS)
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Asiimov%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Asiimov%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Asiimov%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Asiimov%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Asiimov%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Asiimov%20(Battle-Scarred)');
+                        
+
+AWPHyperBeast 10AWPHyperBeast
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Hyper%20Beast%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Hyper%20Beast%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Hyper%20Beast%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Hyper%20Beast%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Hyper%20Beast%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Hyper%20Beast%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Hyper%20Beast%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Hyper%20Beast%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Hyper%20Beast%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Hyper%20Beast%20(Battle-Scarred)');
+                        
+
+AWPContainmentBreach 10ContainmentBreach
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Containment%20Breach%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Containment%20Breach%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Containment%20Breach%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Containment%20Breach%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Containment%20Breach%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Containment%20Breach%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Containment%20Breach%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Containment%20Breach%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Containment%20Breach%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Containment%20Breach%20(Battle-Scarred)');
+                        
+
+AWPNeoNoir 10AWPNeoNoir
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Neo-Noir%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Neo-Noir%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Neo-Noir%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Neo-Noir%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Neo-Noir%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Neo-Noir%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Neo-Noir%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Neo-Noir%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Neo-Noir%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Neo-Noir%20(Battle-Scarred)');
+                        
+
+AWPOniTaiji 10OniTaiji
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Oni%20Taiji%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Oni%20Taiji%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Oni%20Taiji%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Oni%20Taiji%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Oni%20Taiji%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Oni%20Taiji%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Oni%20Taiji%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Oni%20Taiji%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Oni%20Taiji%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Oni%20Taiji%20(Battle-Scarred)');
+                        
+
+AWPRedline 10AWPRedline(NoFN.BS)
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Redline%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Redline%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Redline%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Redline%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Redline%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Redline%20(Well-Worn)');
+
+
+AWPEliteBuild 10AWPEliteBuild
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Elite%20Build%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Elite%20Build%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Elite%20Build%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Elite%20Build%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=AWP%20%7C%20Elite%20Build%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Elite%20Build%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Elite%20Build%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Elite%20Build%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Elite%20Build%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20AWP%20%7C%20Elite%20Build%20(Battle-Scarred)');

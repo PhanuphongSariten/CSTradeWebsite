@@ -1,0 +1,92 @@
+DesertEaglePrintstream 10DEPrintstream
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Printstream%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Printstream%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Printstream%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Printstream%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Printstream%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Printstream%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Printstream%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Printstream%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Printstream%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Printstream%20(Battle-Scarred)');
+
+
+DesertEagleMechaIndustries 10DEMechaIndustries
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Mecha%20Industries%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Mecha%20Industries%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Mecha%20Industries%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Mecha%20Industries%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Mecha%20Industries%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Mecha%20Industries%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Mecha%20Industries%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Mecha%20Industries%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Mecha%20Industries%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Mecha%20Industries%20(Battle-Scarred)');
+                        
+
+DesertEagleCodeRed 10CodeRed
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Code%20Red%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Code%20Red%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Code%20Red%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Code%20Red%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Code%20Red%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Code%20Red%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Code%20Red%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Code%20Red%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Code%20Red%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Code%20Red%20(Battle-Scarred)');
+                        
+
+DesertEagleKumichoDragon 10KumichoDragon
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Battle-Scarred)');
+                        
+
+DesertEagleOceanDrive 10OceanDrive
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Ocean%20Drive%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Ocean%20Drive%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Ocean%20Drive%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Ocean%20Drive%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Ocean%20Drive%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Ocean%20Drive%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Ocean%20Drive%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Ocean%20Drive%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Ocean%20Drive%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Ocean%20Drive%20(Battle-Scarred)');
+                        
+
+DesertEagleCrimsonWeb 10DECrimsonWeb
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Crimson%20Web%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Crimson%20Web%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Crimson%20Web%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Crimson%20Web%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Crimson%20Web%20(Battle-Scarred)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Crimson%20Web%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Crimson%20Web%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Crimson%20Web%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Crimson%20Web%20(Well-Worn)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Crimson%20Web%20(Battle-Scarred)');
+                        
+
+DesertEagleCobaltDisruption 6CobaltDisruption(NoWW.BS)
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=2&sort_by=lowest_price&type=buy_now&market_hash_name=StatTrak%E2%84%A2%20Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Field-Tested)');
+                        
+
+DesertEagleFennecFox 4FennecFox(NoWWCauseRare)
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Fennec%20Fox%20(Factory%20New)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Fennec%20Fox%20(Minimal%20Wear)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Fennec%20Fox%20(Field-Tested)');
+                        open('https://csfloat.com/search?category=1&sort_by=lowest_price&type=buy_now&market_hash_name=Desert%20Eagle%20%7C%20Fennec%20Fox%20(Battle-Scarred)');
